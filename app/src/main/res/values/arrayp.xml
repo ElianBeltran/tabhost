@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Pendientes">
+     <item>Lucio</item>
+     <item>Alejandra</item>
+     <item>Carlos</item>
+     <item>Fernando</item>
+      <item>Yuzari</item>
+      <item>Diana</item>
+      <item>Mauricio</item>
+      <item>Sara</item>
+      <item>Lizbeth</item>
+      <item>Eduardo</item>
+    </string-array>
+</resources>

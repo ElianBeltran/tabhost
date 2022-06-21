@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Invitados">
+        <item>Luis</item>
+        <item>Alejandro</item>
+        <item>Carla</item>
+        <item>Fernanda</item>
+        <item>Yuzaki</item>
+        <item>Orlando</item>
+        <item>Monica</item>
+        <item>Sofia</item>
+        <item>Lisette</item>
+        <item>Damian</item>
+
+    </string-array>
+</resources>
